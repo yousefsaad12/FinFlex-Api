@@ -4,7 +4,7 @@
 
                   ![FinFlex_Api💻 (1)](https://github.com/yousefsaad12/FinFlex-Api/assets/99688907/f673e944-f5fc-4d07-9562-f45a5ae33850)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yousefsaad12/FinFlex-Api)
+![FinFlex_Api💻 (1)](https://github.com/yousefsaad12/FinFlex-Api/assets/99688907/26d1826f-5247-43c9-8ecb-2630dc910b61)
  
 ![GitHub language count](https://img.shields.io/github/languages/count/yousefsaad12/FinFlex-Api) 
 
