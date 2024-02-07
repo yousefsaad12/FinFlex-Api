@@ -33,8 +33,8 @@ Welcome to the FinFlex API! This API serves as the backend for the FinFlex appli
 The FinFlex API offers the following features:
 
 - **Stocks Management**: Allows users to create, update, and delete financial transactions, providing flexibility and control over their financial records and make it's own portfolio.
-- **Stocks Tracking**: Enables users to track their Stocks efficiently, categorizing them for better analysis and management.
-- **Comment Management**: Offers to user to comment for stocks to share the experience with this stock.
+- **Portfolios Tracking**: Enables users to track their Portfolio efficiently, categorizing them for better analysis and management.
+- **Comments Management**: Offers to user to comment for stocks to share the experience with this stock.
 - **Authentication**: Implements JWT-based authentication to secure endpoints, ensuring data privacy and user authentication.
 - **Comprehensive Documentation**: Provides comprehensive API documentation using Swagger UI, making it easier for developers to understand and utilize the available endpoints.
 ## Installation
