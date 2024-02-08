@@ -53,18 +53,10 @@ To run the FinFlex API locally, follow these steps:
     cd FinFlex-Api
     ```
 
-3. Install dependencies:
+3. Start the server:
 
     ```bash
-    npm install
-    ```
-
-4. Set up environment variables. Copy `.env.example` to `.env` and configure it with your settings.
-
-5. Start the server:
-
-    ```bash
-    npm start
+    dotnet watch run
     ```
 
 The server will start running at `http://localhost:3000` by default.
